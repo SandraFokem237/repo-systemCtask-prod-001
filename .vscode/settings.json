@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/a030ac76-3bff-4f0b-82b0-40fc2085d743/resourceGroups/azureappinsights_group/providers/Microsoft.Web/sites/azureappinsights",
-    "appService.deploySubpath": "bin\\Debug\\netcoreapp3.1"
-}
