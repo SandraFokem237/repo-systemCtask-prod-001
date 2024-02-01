@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'app-systemCtask-prod-001'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_838008F9B7794E4EBCB324FCFC9C54A7 }}
+          publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
           package: .
