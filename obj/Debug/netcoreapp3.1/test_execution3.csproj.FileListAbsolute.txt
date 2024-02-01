@@ -65,3 +65,12 @@ C:\Users\a00531464\Documents\Important\test_execution3\bin\Debug\netcoreapp3.1\r
 C:\Users\a00531464\Documents\Important\test_execution3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 C:\Users\a00531464\Documents\Important\test_execution3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 C:\Users\a00531464\Documents\Important\test_execution3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\a00531464\Documents\Important\repo-systemCtask-prod-001\obj\Debug\netcoreapp3.1\test_execution3.csprojAssemblyReference.cache
+C:\Users\a00531464\Documents\Important\repo-systemCtask-prod-001\obj\Debug\netcoreapp3.1\test_execution3.AssemblyInfoInputs.cache
+C:\Users\a00531464\Documents\Important\repo-systemCtask-prod-001\obj\Debug\netcoreapp3.1\test_execution3.AssemblyInfo.cs
+C:\Users\a00531464\Documents\Important\repo-systemCtask-prod-001\obj\Debug\netcoreapp3.1\test_execution3.csproj.CoreCompileInputs.cache
+C:\Users\a00531464\Documents\Important\repo-systemCtask-prod-001\obj\Debug\netcoreapp3.1\test_execution3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\a00531464\Documents\Important\repo-systemCtask-prod-001\obj\Debug\netcoreapp3.1\test_execution3.RazorAssemblyInfo.cache
+C:\Users\a00531464\Documents\Important\repo-systemCtask-prod-001\obj\Debug\netcoreapp3.1\test_execution3.RazorAssemblyInfo.cs
+C:\Users\a00531464\Documents\Important\repo-systemCtask-prod-001\obj\Debug\netcoreapp3.1\test_execution3.dll
+C:\Users\a00531464\Documents\Important\repo-systemCtask-prod-001\obj\Debug\netcoreapp3.1\test_execution3.pdb

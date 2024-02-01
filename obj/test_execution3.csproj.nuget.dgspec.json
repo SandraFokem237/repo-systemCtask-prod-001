@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a00531464\\Documents\\Important\\repo-systemCtask-prod-001\\test_execution3.csproj": {}
+    "C:\\Users\\a00531464\\Documents\\Important\\repo_systemCtask_prod_001\\test_execution3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a00531464\\Documents\\Important\\repo-systemCtask-prod-001\\test_execution3.csproj": {
+    "C:\\Users\\a00531464\\Documents\\Important\\repo_systemCtask_prod_001\\test_execution3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a00531464\\Documents\\Important\\repo-systemCtask-prod-001\\test_execution3.csproj",
+        "projectUniqueName": "C:\\Users\\a00531464\\Documents\\Important\\repo_systemCtask_prod_001\\test_execution3.csproj",
         "projectName": "test_execution3",
-        "projectPath": "C:\\Users\\a00531464\\Documents\\Important\\repo-systemCtask-prod-001\\test_execution3.csproj",
+        "projectPath": "C:\\Users\\a00531464\\Documents\\Important\\repo_systemCtask_prod_001\\test_execution3.csproj",
         "packagesPath": "C:\\Users\\a00531464\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a00531464\\Documents\\Important\\repo-systemCtask-prod-001\\obj\\",
+        "outputPath": "C:\\Users\\a00531464\\Documents\\Important\\repo_systemCtask_prod_001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a00531464\\AppData\\Roaming\\NuGet\\NuGet.Config",
