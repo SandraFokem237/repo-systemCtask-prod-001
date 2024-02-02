@@ -22,11 +22,11 @@ namespace repo_systemCtask_prod_001.Controllers
         [HttpGet]
         public async Task<ActionResult<string>> Get()
         {
-            HttpClient client = new HttpClient();
-            var response = await client.GetAsync(url);
-            var text = await response.Content.ReadAsStringAsync();
+            //HttpClient client = new HttpClient();
+            //var response = await client.GetAsync(url);
+            //var text = await response.Content.ReadAsStringAsync();
 
-            return new OkObjectResult("System CsTake Home Assignment");
+            return new OkObjectResult("System C Take Home Assignment");
         }
 
     }
