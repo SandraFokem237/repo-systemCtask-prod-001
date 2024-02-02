@@ -37,11 +37,33 @@ And should look like this
 * Paste the contents for the downloaded publish profile file into the secret's value field
 * Now in the workflow file in your branch: `.github/workflows/workflow.yml` replace the secret for the input `publish-profile:` of the deploy Azure WebApp action
 
-## test your workflow
+## Test your workflow
 * Commit a change in the app code. 
 * You should see a new GitHub Action initiated in **Actions** tab.
 * At the end of the execution, navigate to the App URL to visualise the change introduced.
 
-## new web with local code for this assignment
+## New web with local code for this assignment
 ![image](https://github.com/SandraFokem237/repo_systemCtask_prod_001/assets/145476727/7ce2d3e7-baf7-47ed-9b0c-ac22cc44b9a9)
+
+# Steps to create Application Insights resource
+Application Insights displays data about your application in a Microsoft Azure resource. Creating a new resource is therefore part of setting up Application Insights to monitor a new application.
+After you have created the resource, you get its instrumentation key and use that to configure the SDK in the application. This sends the telemetry to the resource.
+
+## Create an Application Insights resource
+In the portal.azure.com, add an Application Insights resource:
+![image](https://github.com/SandraFokem237/repo_systemCtask_prod_001/assets/145476727/a81d9dbd-4d39-4ce8-894a-e02b63d58309)
+
+When your app has been created, a new blade opens. This is where you'll see performance and usage data about your app.
+
+## Install the SDK in your app
+Install the Application Insights SDK in your app. This step depends heavily on the type of your application.
+
+Use the instrumentation key to configure the SDK that you install in your application https://learn.microsoft.com/en-us/azure/azure-monitor/app/asp-net-core?tabs=netcorenew%2Cnetcore6.
+
+## See telemetry data
+Close the quick start blade to return to your application blade in the Azure portal.
+
+Click the Search tile to see Diagnostic Search, where the first events will appear.
+
+Click Refresh after a few seconds if you're expecting more data.
 
