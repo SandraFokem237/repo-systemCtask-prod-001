@@ -67,3 +67,4 @@ Click the Search tile to see Diagnostic Search, where the first events will appe
 
 Click Refresh after a few seconds if you're expecting more data.
 
+
